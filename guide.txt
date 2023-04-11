@@ -1,0 +1,11 @@
+cd server 
+command: 
+npm init -y : initialize npm package
+npm i express body-parser (for parsing data) cors (for cross-origin resource sharing) dotenv (for environment variables) 
+    helmet (for protecting apis) morgan (for looping APIs) mongoose (for handling mongoDB calls) nodemon (for live server reload)
+
+
+cd client 
+command: 
+npm i react-redux @reduxjs/toolkit react-datepicker react-router-dom@6 @mui/material @emotion/react @emotion/styled @mui/icons-material
+ @mui/x-data-grid @nivo/core @nivo/bar @nivo/geo @nivo/pi    
